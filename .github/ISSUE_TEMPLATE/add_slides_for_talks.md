@@ -1,6 +1,6 @@
 ---
-name: Add slides to Talks
-about: Add slides used at the RPYSOC24 conference to the Talks folder.
+name: Add slides
+about: Add slide decks used at the RPYSOC24 conference to the Talks folder.
 title: 'Slides for: [insert talk name]'
 assignees: ''
 
