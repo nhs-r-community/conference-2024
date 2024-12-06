@@ -9,6 +9,7 @@ The `Talks` folder contains some of the slide decks used during the conference. 
 
 - [Introduction](https://presentations.nhsrcommunity.com/20241121-rpysoc/intro-days.html#/section)
 - [Closing](https://presentations.nhsrcommunity.com/20241121-rpysoc/closing-days.html#/section)
+- [To explain or predict: how different modelling objectives change how you use the same tools](https://chrismainey.github.io/to_explain_or_predict/to_explain_or_predict)
 
 These two slide decks are hosted from code in the [NHSR-presentations](https://github.com/nhs-r-community/NHSR-presentations) repository.
 
