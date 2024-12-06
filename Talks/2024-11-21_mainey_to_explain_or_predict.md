@@ -1,4 +1,4 @@
-## To Exlplain or Predict: how different modelling objectives change how you use the same tools (Chris Mainey)
+## To Explain or Predict: how different modelling objectives change how you use the same tools (Chris Mainey)
 
 ### Links
 
