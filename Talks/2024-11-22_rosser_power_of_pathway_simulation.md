@@ -4,7 +4,7 @@
 
 - [Slides](https://bergam0t.github.io/nhsr_conf_2024_pres_des/)
 
-- [Code](https://bergam0t.github.io/nhsr_conf_2024_pres_des/)
+- [Code](https://github.com/Bergam0t/nhsr_conf_2024_pres_des)
 
 ### Abstract
 
