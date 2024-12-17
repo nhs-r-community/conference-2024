@@ -4,7 +4,7 @@
 A repository of all of the materials shared throughout the RPYSOC conference 
 2024.
 
-The `Talks` folder contains slide decks used for the [Introduction](), most presentations and the [Closing]() of the conference. Please note this GitHub repository is under an open licence, but that this licence does not 
+The `Talks` folder contains slide decks used for the [Introduction](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/introduction.md), most presentations and the [Closing](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/closing.md) of the conference. Please note this GitHub repository is under an open licence, but that this licence does not 
 extend to other GitHub repositories or websites we may link to here.
 
 A playlist of the conference is available on 
@@ -25,7 +25,7 @@ A playlist of the conference is available on
 |-----|--|-|
 | Reimagining NHS dashboards: an open-source approach with plotly-dash | Jennifer Struthers | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_struthers_reimagine-dashboards.pptx) |
 | Using Machine Learning and secondary care activity data to identify risk of cancer earlier | Scarlett Kynoch | |
-| The patient does not exist – generating synthetic patient data with Wasserstein GAN |  	Simon Newey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_newey_gan.pptx) |
+| The patient does not exist – generating synthetic patient data with Wasserstein GAN | Simon Newey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_newey_gan.pptx) |
 | Streamlining machine learning development at the NHS via open-source tools | Elias Altrabsheh and James Sibbit | |
 | rainbowR | Ella Kaye | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_kaye_rainbowR) |
 
@@ -38,11 +38,11 @@ A playlist of the conference is available on
 | To explain or predict: how different modelling objectives change how you use the same tools | Chris Mainey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_mainey_to_explain_or_predict.md) |
 | Using Openxlsx2 to automate excel publications | Ruth Keane | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_keane_openxlsx2.pptx) |
 
-**[Day one, afternoon 2](https://www.youtube.com/watch?v=z_RkSDTJhj4&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=4&pp=iAQB)**
+**[Day one, afternoon 2](https://www.youtube.com/watch?v=KgLsjY7xgAQ&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=6)**
 
 | Title | Speaker | Links |
 |-----|--|-|
-| What I learnt about (programming) languages by building bilingual websites | | |
+| What I learnt about (programming) languages by building bilingual websites | Rosemary Walmsley | |
 | Leveraging R to implement novel theoretical development in online ‘digital twin’ simulation modelling | Richard Wood | |
 | Should I use your package | Colin Gillespie | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_gillespie_validating-r-packages.pdf) |
 | Cracking open the TiN: how we build a one-stop statistics website using R, GitHub and BigQuery | Mohan Dell | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_dell_cracking-open-the-tin.pptx) |
@@ -81,4 +81,4 @@ A playlist of the conference is available on
 | Forged in the fire: agile project management lessons from the frontline | Chris Beeley | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_beeley_agile-project-management.md) |
 | Community Talk – Turing Way | Sophia Batchelor | |
 | Community Talk - NHS.Pycom | Alex Cheung | |
-| Community Talk - NHS-R Community  | Zoë Turner | [Slides]() |
+| Community Talk - NHS-R Community  | Zoë Turner | [Slides](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/2024-11-22_turner_nhsr-community-talk.md) |
