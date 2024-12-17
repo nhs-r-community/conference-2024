@@ -38,7 +38,7 @@ A playlist of the conference is available on
 | To explain or predict: how different modelling objectives change how you use the same tools | Chris Mainey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_mainey_to_explain_or_predict.md) |
 | Using Openxlsx2 to automate excel publications | Ruth Keane | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_keane_openxlsx2.pptx) |
 
-**[Day one, afternoon 2](https://www.youtube.com/watch?v=z_RkSDTJhj4&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=4&pp=iAQB)**
+**[Day one, afternoon 2](https://www.youtube.com/watch?v=KgLsjY7xgAQ&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=6)**
 
 | Title | Speaker | Links |
 |-----|--|-|
@@ -81,4 +81,4 @@ A playlist of the conference is available on
 | Forged in the fire: agile project management lessons from the frontline | Chris Beeley | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_beeley_agile-project-management.md) |
 | Community Talk – Turing Way | Sophia Batchelor | |
 | Community Talk - NHS.Pycom | Alex Cheung | |
-| Community Talk - NHS-R Community  | Zoë Turner | [Slides]() |
+| Community Talk - NHS-R Community  | Zoë Turner | [Slides](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/2024-11-22_turner_nhsr-community-talk.md) |
