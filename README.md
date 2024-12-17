@@ -42,7 +42,7 @@ A playlist of the conference is available on
 
 | Title | Speaker | Links |
 |-----|--|-|
-| What I learnt about (programming) languages by building bilingual websites | | |
+| What I learnt about (programming) languages by building bilingual websites | Rosemary Walmsley | |
 | Leveraging R to implement novel theoretical development in online ‘digital twin’ simulation modelling | Richard Wood | |
 | Should I use your package | Colin Gillespie | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_gillespie_validating-r-packages.pdf) |
 | Cracking open the TiN: how we build a one-stop statistics website using R, GitHub and BigQuery | Mohan Dell | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_dell_cracking-open-the-tin.pptx) |
