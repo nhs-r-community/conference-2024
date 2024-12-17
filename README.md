@@ -26,7 +26,7 @@ A playlist of the conference is available on
 | Reimagining NHS dashboards: an open-source approach with plotly-dash | Jennifer Struthers | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_struthers_reimagine-dashboards.pptx) |
 | Using Machine Learning and secondary care activity data to identify risk of cancer earlier | Scarlett Kynoch | |
 | The patient does not exist – generating synthetic patient data with Wasserstein GAN | Simon Newey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_newey_gan.pptx) |
-| Streamlining machine learning development at the NHS via open-source tools | Elias Altrabsheh and James Sibbit | [Slides](https://github.com/nhs-r-community/conference-2024/blob/677beb95b80f4e37ef9f11204c81c2ce6eae568d/Talks/2024-11-21_altrabsheh_mlops-in-the-nhs.pptx) |
+| Streamlining machine learning development at the NHS via open-source tools | Elias Altrabsheh and James Sibbit | [Slides](https://github.com/nhs-r-community/conference-2024/blob/38757fb87904551aad6c6af6630096fec2e6fd56/Talks/2024-11-21_altrabsheh_mlops-in-the-nhs.pptx) |
 | rainbowR | Ella Kaye | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_kaye_rainbowR) |
 
 **[Day one, afternoon 1](https://www.youtube.com/watch?v=JfKWT7YbW0k&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=3&pp=iAQB)**
