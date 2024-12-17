@@ -44,7 +44,7 @@ A playlist of the conference is available on
 |-----|--|-|
 | What I learnt about (programming) languages by building bilingual websites | Rosemary Walmsley | |
 | Leveraging R to implement novel theoretical development in online ‘digital twin’ simulation modelling | Richard Wood | |
-| Should I use your package | Colin Gillespie | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_gillespie_validating-r-packages.pdf) |
+| Should I use your package | Colin Gillespie | [Slides](https://nhs-r-community.github.io/conference-2024/Talks/2024-11-21_gillespie_validating-r-packages.pdf) |
 | Cracking open the TiN: how we build a one-stop statistics website using R, GitHub and BigQuery | Mohan Dell | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_dell_cracking-open-the-tin.pptx) |
 
 **[Day two, morning 1](https://www.youtube.com/watch?v=s21lNo3pZVQ&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=5&pp=iAQB)**
@@ -71,7 +71,7 @@ A playlist of the conference is available on
 | Presenting fingertips in data in a more friendly format | Rachel Brown | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_brown_fingertips_data_shiny.md) |
 | A method to apply temporal graph analysis on electronic patient record data to explore healthcare professional patient interaction intensity | John Booth | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_booth_temporal-graph-analysis.pptx) |
 | Deploying a Shiny app with Docker in a Raspberry Pi | Pablo León Ródenas | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_leon_rodenas_docker_shiny.md) |
-| Estimating flexible hazard rates for C diff recurrence from electronic health records using the SplinHazard Regression package and other methods in R | Elisabeth Dietz | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_dietz_survival.html) |
+| Estimating flexible hazard rates for C diff recurrence from electronic health records using the SplinHazard Regression package and other methods in R | Elisabeth Dietz | [Slides](https://nhs-r-community.github.io/conference-2024/Talks/2024-11-22_dietz_survival.html) |
 | Assessment of patient feedback using Natural Language Processing (NLP) and textual data analysis in R | Ana Singh | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-22_singh_nlp.pptx) |
 
 **[Day two, afternoon 2](https://www.youtube.com/watch?v=z_RkSDTJhj4&list=PLXCrMzQaI6c2vQUabRSOg9_FCxp6x6cVg&index=4&pp=iAQB)**
