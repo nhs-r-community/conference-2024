@@ -4,7 +4,7 @@
 A repository of all of the materials shared throughout the RPYSOC conference 
 2024.
 
-The `Talks` folder contains slide decks used for the [Introduction](), most presentations and the [Closing]() of the conference. Please note this GitHub repository is under an open licence, but that this licence does not 
+The `Talks` folder contains slide decks used for the [Introduction](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/introduction.md), most presentations and the [Closing](https://github.com/nhs-r-community/conference-2024/blob/2508114fbaecb020d97308fe1d11aa9d86135f33/Talks/closing.md) of the conference. Please note this GitHub repository is under an open licence, but that this licence does not 
 extend to other GitHub repositories or websites we may link to here.
 
 A playlist of the conference is available on 
@@ -25,7 +25,7 @@ A playlist of the conference is available on
 |-----|--|-|
 | Reimagining NHS dashboards: an open-source approach with plotly-dash | Jennifer Struthers | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_struthers_reimagine-dashboards.pptx) |
 | Using Machine Learning and secondary care activity data to identify risk of cancer earlier | Scarlett Kynoch | |
-| The patient does not exist – generating synthetic patient data with Wasserstein GAN |  	Simon Newey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_newey_gan.pptx) |
+| The patient does not exist – generating synthetic patient data with Wasserstein GAN | Simon Newey | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_newey_gan.pptx) |
 | Streamlining machine learning development at the NHS via open-source tools | Elias Altrabsheh and James Sibbit | |
 | rainbowR | Ella Kaye | [Slides](https://github.com/nhs-r-community/conference-2024/blob/18bd063d729bfab457124bf849ed9812e12ba118/Talks/2024-11-21_kaye_rainbowR) |
 
